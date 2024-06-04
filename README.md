@@ -16,7 +16,7 @@ A 17 year old Defensive Security Operator with almost a year of versatile experi
 <p align="center">
 <img src="https://imgs.search.brave.com/PyckVZksCD4EmOEZzNLnyzhRYpJkKdR-Tt3sgZBxQH8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy91YnVudHUtbG9n/by5wbmc" width="45" height="45" alt="Linux" />
 <img src="https://imgs.search.brave.com/WMiqrWvhkMztgjNMspEX_XQpXqYAFXxjgei13vrwqt4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5nZWVrc2Zvcmdl/ZWtzLm9yZy93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMzA0MDYx/NTIzNTgvQ04tKDEp/LmpwZw" width="45" height="45" alt="Computer Networking" />
-<img src="https://imgs.search.brave.com/u6m8WyuoAguSbqvn83WivaJZjuF0TBYDfeu3DlEHcVA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/ZGl4LmNvbS9sb2dv/LzE2Mzg4NzgucG5n" width="45" height="45" alt="Nginx" />
+<img src="https://imgs.search.brave.com/7pXhp35o4IFOxIsntrsZ4t54BC1gUHSYBQQOOaNXjsM/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9zdGF0/aWMtMDAuaWNvbmR1/Y2suY29tL2Fzc2V0/cy4wMC9maWxlLXR5/cGUtbmdpbngtaWNv/bi04OTZ4MTAyNC1p/bHpxdDhibS5wbmc" width="45" height="45" alt="Nginx" />
   <img src="https://imgs.search.brave.com/f9VXABMHbaS5ANUN9uPHvL-OPkEZ0TgKLJvUtVvRi5c/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9sb2dv/LWRvd25sb2FkLmNv/bS93cC1jb250ZW50/L2RhdGEvaW1hZ2Vz/L3N2Zy9BcGFjaGUt/SFRUUC1TZXJ2ZXIt/bG9nby5zdmc.svg" width="45" height="45" alt="Apache" />
 </p>
 
