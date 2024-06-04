@@ -13,7 +13,7 @@ A 17 year old Defensive Security Operator with almost a year of versatile experi
 ### Skills
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+<img src="https://imgs.search.brave.com/PyckVZksCD4EmOEZzNLnyzhRYpJkKdR-Tt3sgZBxQH8/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9icmFu/ZHNsb2dvcy5jb20v/d3AtY29udGVudC91/cGxvYWRzL2ltYWdl/cy91YnVudHUtbG9n/by5wbmc" width="45" height="45" alt="Linux" />
 </p>
 
 ### Socials
