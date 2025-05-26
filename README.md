@@ -3,6 +3,7 @@
 
 
 
-![Image 1](https://images.credly.com/size/340x340/images/276d8595-f4e0-457b-adc8-aab85ee221bf/blob)
-![Image 2](https://images.credly.com/size/340x340/images/80d8a06a-c384-42bf-ad36-db81bce5adce/blob)
-![Image 3](https://github.com/user-attachments/assets/1cea04e8-b04f-483b-90d7-e5ebbb18f29b)
+  <img src="https://github.com/user-attachments/assets/0c6e0303-13e8-43c8-ae5d-2af777fa1000" width="150" height="150">
+  <img src="https://github.com/user-attachments/assets/0acf615d-6b9f-4d3d-90a3-f40fe97289e3" width="150" height="150">
+  <img src="https://github.com/user-attachments/assets/1cea04e8-b04f-483b-90d7-e5ebbb18f29b" width="150" height="150">
+
