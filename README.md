@@ -1,22 +1,4 @@
 
- <style>
-        /* Container to hold the images */
-        .image-container {
-            display: flex;
-            justify-content: center; /* Centers images horizontally */
-            align-items: center;     /* Aligns images vertically */
-            gap: 10px;               /* Adds space between images */
-            padding: 20px;
-        }
-
-        /* Styling for each image */
-        .image-container img {
-            width: 100px;   /* Set desired width */
-            height: 100px;  /* Set desired height */
-            object-fit: cover; /* Ensures images cover the area without distortion */
-            border-radius: 8px; /* Optional: adds rounded corners */
-        }
-    </style>
 
 
 
