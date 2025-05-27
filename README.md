@@ -1,3 +1,9 @@
+<h1><bold>Introduction:</bold></h1>
+Aspiring cybersecurity professional with hands-on experience, multiple certifications, and a strong focus on defensive security. Currently pursuing opportunities within the clearance space to apply my skills in high-impact environments.
+
+<br>
+<br>
+
 <h1><bold>Certifications:</bold></h1>
 
 
